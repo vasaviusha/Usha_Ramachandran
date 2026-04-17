@@ -1,7 +1,7 @@
 # Usha_Ramachandran
 📊 README: Data Analyst | IT Veteran | Storytelling Enthusiast
 👋 About Me
-Hi there! I'm a data analyst with a storyteller's mindset and a solid foundation in the IT industry, backed by 14 years of experience. Though I’m a beginner in data analytics, I’ve completed 2–3 hands-on projects that showcase my ability to turn data into compelling narratives.
+Hi there! I'm a data analyst with a storyteller's mindset and a solid foundation in the IT industry, backed by 14 years of experience. Though I’m a proficient in data analytics, I’ve completed 5+ hands-on projects that showcase my ability to turn data into compelling narratives.
 
 💼 Career Snapshot
 14 years in IT: Deep experience in diverse domains like Retail, Automotive , performance tuning in BQ, and stakeholder collaboration.
